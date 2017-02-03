@@ -41,6 +41,7 @@ html, body {
 
 .achievement {
   font-size: 14px;
+  font-weight: 700;
   margin-bottom: 12px;
   text-align: left;
 }
